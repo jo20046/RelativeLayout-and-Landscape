@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prüfung Feb. 2021, Joshua Enthöfer</string>
+    <string name="portrait">Portrait</string>
+    <string name="aufgabe_1">Aufgabe 1</string>
+    <string name="aufgabe_2">Aufgabe 2</string>
+    <string name="landscape">Landscape</string>
+</resources>
